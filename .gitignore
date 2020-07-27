@@ -1,0 +1,14 @@
+# Distribution packages
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+
+# Environments
+env/
+venv/
+ENV/
+
+# Compiled Python files
+*.py[co]
+.idea
